@@ -1,4 +1,1 @@
-!cp/templates/clouldhost/*
 
-cp/*
-# Except for the templates directories:
