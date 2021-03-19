@@ -1,0 +1,116 @@
+/* 	Theme Name : Cloud Host
+	Author : Redcheap Theme
+	Author URL : http://www.rctheme.com
+    Version : 1.0.0
+    Created: 6 August 2017
+*/
+
+/* ======== Primary Color CSS Start ======== */
+
+.heading h2 span, .page_banner h1 strong {
+	color: #fa5b0f;
+}
+.btn_primary {
+	background-color: #fa5b0f;
+}
+.top_header .top_link ul li.login{
+	background-color: #fa5b0f;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus, #header .navbar-default #navbar-collapse-1 ul.login a.dropdown-toggle {
+	background-color: #fa5b0f;
+}
+.services_boxs .sboxs_f i {
+	color: #fa5b0f;
+}
+.services_boxs .sboxs_b {
+	background-color: #fa5b0f;
+	border-color: #fa5b0f;
+}
+.our_staff .team_box .sboxs_b {
+	background-color: #fa5b0f;
+	border-color: #fa5b0f;
+}
+.domain_search .search_d .search_box {
+	border-color: #fa5b0f;
+}
+.domain_search ul.promo_list li span {
+	color: #fa5b0f;
+}
+.pricing_table .pricing_box span {
+	background-color: #fa5b0f;
+}
+.pricing_table .pricing_box .title:after {
+	border-top-color: #fa5b0f;
+}
+.our_services_main .services_box .services_icon {
+	background-color: #fa5b0f;
+}
+.icon_right, .icon_center {
+	background-color: #fa5b0f;
+}
+.icon_right:after {
+	border-top-color: #fa5b0f;
+	border-left-color: #fa5b0f;
+}
+.left_icon_box .left_icon i {
+	color: #fa5b0f;
+}
+.footer-bottom  .payment_icon i:hover {
+	color: #fa5b0f;
+}
+.pricing_table3 .plan_box.most_popular .plan_intro {
+	background-color: #fa5b0f;
+}
+.process .process_next {
+	background-color: #fa5b0f;
+}
+.process span {
+	background-color: #fa5b0f;
+}
+
+/*WHMCS CSS*/
+
+section#main-menu {
+	background-color: #fa5b0f;
+}
+.navbar-main {
+	background-color: #fa5b0f;
+}
+ul.top-nav > li.primary-action > a.btn {
+	background-color: #fa5b0f;
+}
+div.header-lined h1 {
+	color: #fa5b0f;
+}
+.btn-primary, .btn-primary:hover {
+	background-color: #fa5b0f;
+	border-color: #fa5b0f;
+}
+.panel-sidebar > .panel-heading {
+  background-color: #fa5b0f;
+}
+
+
+/* ======== Primary Color CSS End ======== */
+
+/* ======== Order Form Primary Color CSS Start ======== */
+
+#order-pure_comparison .price-table-container .price-table .top-head .top-area h4 {
+	background-color: #fa5b0f;
+}
+#order-pure_comparison .price-table-container .price-table .top-head .top-area h4:after {
+	border-top-color: #fa5b0f !important
+}
+.shoe_hide_button {
+	background-color: #fa5b0f;
+}
+#order-pure_comparison .price-table-container .order-button,
+#order-pure_comparison .price-table-container .order-button:hover {
+	background-color: #fa5b0f;
+}
+#order-pure_comparison .includes-features ul.list-features li:before {
+	color: #fa5b0f;
+}
+.panel-sidebar > .panel-heading {
+  background-color: #fa5b0f !important;
+}
