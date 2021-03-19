@@ -1,0 +1,107 @@
+/* 	Theme Name : Cloud Host
+	Author : Redcheap Theme
+	Author URL : http://www.rctheme.com
+    Version : 1.0.0
+    Created: 30 July 2017
+*/
+
+/* ======== Primary Color CSS Start ======== */
+
+.heading h2 span, .page_banner h1 strong {
+	color: #49a22a;
+}
+.btn_primary {
+	background-color: #49a22a;
+}
+.top_header .top_link ul li.login{
+	background-color: #49a22a;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+	background-color: #49a22a;
+}
+.services_boxs .sboxs_f i {
+	color: #49a22a;
+}
+.services_boxs .sboxs_b {
+	background-color: #49a22a;
+	border-color: #49a22a;
+}
+.our_staff .team_box .sboxs_b {
+	background-color: #49a22a;
+	border-color: #49a22a;
+}
+.domain_search .search_d .search_box {
+	border-color: #49a22a;
+}
+.domain_search ul.promo_list li span {
+	color: #49a22a;
+}
+.pricing_table .pricing_box span {
+	background-color: #49a22a;
+}
+.pricing_table .pricing_box .title:after {
+	border-top-color: #49a22a;
+}
+.our_services_main .services_box .services_icon {
+	background-color: #49a22a;
+}
+.icon_right, .icon_center {
+	background-color: #49a22a;
+}
+.icon_right:after {
+	border-top-color: #49a22a;
+	border-left-color: #49a22a;
+}
+.left_icon_box .left_icon i {
+	color: #49a22a;
+}
+.footer-bottom  .payment_icon i:hover {
+	color: #49a22a;
+}
+.pricing_table3 .plan_box.most_popular .plan_intro {
+	background-color: #49a22a;
+}
+.process .process_next {
+	background-color: #49a22a;
+}
+.process span {
+	background-color: #49a22a;
+}
+
+/* ======== Primary Color CSS End ======== */
+
+/* ======== Secondary Color CSS Start ======== */
+
+.btn_secondry {
+	background-color: #e9682e;
+}
+.top_header {
+	background-color: #999;
+}
+.pricing_table .pricing_box.active span {
+	background-color: #e9682e;
+}
+.pricing_table .pricing_box.active .title:after {
+	border-top-color: #e9682e;
+}
+.services_boxs .sboxs_f {
+	border-color: #49a22a;
+}
+.home_banner ul.promo_list li strong span {
+	color: #e9682e;
+}
+.best_services, .call_back {
+	background: #000000;
+	background: -moz-linear-gradient(left, #000000 0%, #000000 50%, #666666 50%, #666666 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left, #000000 0%, #000000 50%, #666666 50%, #666666 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right, #000000 0%, #000000 50%, #666666 50%, #666666 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#666666', GradientType=1 ); /* IE6-9 */
+	position:relative;
+}
+@media (min-width : 200px) and (max-width: 991px) {
+	.best_services, .call_back {
+	background: #000000;
+}
+}
+
+/* ======== Secondary Color CSS Start ======== */

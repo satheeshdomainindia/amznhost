@@ -1,0 +1,3 @@
+cp/*
+# Except for the templates directories:
+!cp/templates/clouldhost/*

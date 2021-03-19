@@ -1,0 +1,133 @@
+/* 	Theme Name : Domain Host
+	Author : Redcheap Theme
+	Author URL : http://www.rctheme.com
+    Version : 1.0.0
+    Created: 04 July 2017
+*/
+
+#style-switcher h3 {
+	color:#fff;
+	font-size:13px;
+	margin: 10px 0;
+	font-weight: 500;
+	text-transform: none;
+	letter-spacing: 0;
+}
+#style-switcher {
+	background: #333;
+	width:180px;
+	position:fixed;
+	top:145px;
+	z-index:9999;
+	left: -180px;
+	border-radius: 0 0 3px 0;
+}
+#style-switcher ul {
+	list-style: none;
+	padding: 0;
+}
+#style-switcher div {
+	padding: 6px 18px;
+}
+#style-switcher h2 {
+	background: #282828;
+	color: #fff;
+	font-size: 14px;
+	line-height: 46px;
+	padding: 0 0 0 20px;
+	margin-top: 0;
+}
+#style-switcher h2 a {
+	background-color: #282828;
+	display: block;
+	height: 46px;
+	position: absolute;
+	right: -46px;
+	top: 0;
+	width: 46px;
+	border-radius: 0 3px 3px 0;
+	font-size: 22px;
+	color: #fff;
+	text-align: center;
+}
+#style-switcher h2 a i {
+	position: relative;
+	top: -1px;
+}
+.colors {
+	list-style:none;
+	margin: 0 0px 10px 0;
+	overflow: hidden;
+}
+.colors li {
+	float:left;
+	margin: 4px 2px 0 2px;
+}
+.colors li a {
+	display: block;
+	width:32px;
+	height:32px;
+	cursor: pointer;
+}
+div.layout-style {
+	padding:0 !important;
+}
+.layout-style select {
+	width: 164px;
+	padding: 7px;
+	color: #aaa;
+	cursor: pointer;
+	font-size: 14px;
+	font-weight: 600;
+	margin: 2px 0 25px 0px;
+	background-color: #505050;
+	border: 0;
+	min-height: auto;
+}
+.default{
+	background: #d71c67;
+}
+.green{
+	background: #49a22a;
+}
+.blue{
+	background: #274abb;
+}
+.orange {
+	background: #fa5b0f;
+}
+.yellow{
+	background: #f6bf40;
+}
+.peach{
+	background :#fcab55;
+}
+.purple {
+	background: #b4009e;
+}
+.olive {
+	background: #b3c211;
+}
+.colors li a.active {
+	box-shadow: 0 0 0 2px #fff inset
+}
+.colors li a {
+	border-radius: 3px;
+}
+#reset {
+	margin: -5px 0 15px 0px;
+}
+#reset a.button {
+	padding: 7px 14px;
+	font-weight: 700;
+	font-size: 13px;
+}
+#reset a.button:hover {
+	color: #333;
+	background-color: #fff;
+}
+ @media only screen and (max-width:767px) {
+#style-switcher {
+display: none;
+}
+}
